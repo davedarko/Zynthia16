@@ -567,35 +567,33 @@ $EndComp
 Wire Wire Line
 	1600 7150 1650 7150
 Wire Wire Line
-	1600 7250 2200 7250
+	2200 7050 2200 7250
 Wire Wire Line
 	2200 7250 2200 7350
 $Comp
 L Device:R R2
 U 1 1 5FCBDD6C
-P 1400 6850
-F 0 "R2" H 1470 6896 50  0000 L CNN
-F 1 "R" H 1470 6805 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1330 6850 50  0001 C CNN
-F 3 "~" H 1400 6850 50  0001 C CNN
-	1    1400 6850
-	0    1    1    0   
+P 900 7250
+F 0 "R2" H 970 7296 50  0000 L CNN
+F 1 "R" H 970 7205 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 830 7250 50  0001 C CNN
+F 3 "~" H 900 7250 50  0001 C CNN
+	1    900  7250
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	1250 6850 1050 6850
 $Comp
 L power:VCC #PWR0120
 U 1 1 5FCCA9E7
-P 1050 6750
-F 0 "#PWR0120" H 1050 6600 50  0001 C CNN
-F 1 "VCC" V 1065 6878 50  0000 L CNN
-F 2 "" H 1050 6750 50  0001 C CNN
-F 3 "" H 1050 6750 50  0001 C CNN
-	1    1050 6750
+P 950 6750
+F 0 "#PWR0120" H 950 6600 50  0001 C CNN
+F 1 "VCC" V 965 6878 50  0000 L CNN
+F 2 "" H 950 6750 50  0001 C CNN
+F 3 "" H 950 6750 50  0001 C CNN
+	1    950  6750
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1050 6750 900  6750
+	950  6750 800  6750
 $Comp
 L Device:R R3
 U 1 1 5FCD1448
@@ -695,19 +693,14 @@ Wire Wire Line
 $Comp
 L power:GND #PWR0116
 U 1 1 5FDA81C4
-P 1050 6900
-F 0 "#PWR0116" H 1050 6650 50  0001 C CNN
-F 1 "GND" H 1055 6727 50  0000 C CNN
-F 2 "" H 1050 6900 50  0001 C CNN
-F 3 "" H 1050 6900 50  0001 C CNN
-	1    1050 6900
+P 900 7500
+F 0 "#PWR0116" H 900 7250 50  0001 C CNN
+F 1 "GND" H 905 7327 50  0000 C CNN
+F 2 "" H 900 7500 50  0001 C CNN
+F 3 "" H 900 7500 50  0001 C CNN
+	1    900  7500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1050 6900 1050 6850
-Wire Wire Line
-	1050 6850 900  6850
-Connection ~ 1050 6850
 Wire Wire Line
 	2200 7450 2200 7350
 Connection ~ 2200 7350
@@ -717,17 +710,6 @@ Connection ~ 1650 7450
 Wire Wire Line
 	2200 7250 2450 7250
 Connection ~ 2200 7250
-$Comp
-L Connector:Conn_01x04_Male J5
-U 1 1 5FC7BDE8
-P 1400 7250
-F 0 "J5" H 1508 7531 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 1508 7440 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 1400 7250 50  0001 C CNN
-F 3 "~" H 1400 7250 50  0001 C CNN
-	1    1400 7250
-	1    0    0    -1  
-$EndComp
 $Comp
 L Connector:Conn_01x02_Male J7
 U 1 1 5FD4D031
@@ -795,11 +777,11 @@ F 3 "~" H 4500 7700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_01x02_Male OUT_CARRY_OUT1
+L Connector:Conn_01x02_Male J23
 U 1 1 5FE997B1
 P 3650 7700
-F 0 "OUT_CARRY_OUT1" V 3804 7512 50  0000 R CNN
-F 1 "Conn_01x02_Male" V 3713 7512 50  0000 R CNN
+F 0 "J23" V 3804 7512 50  0000 R CNN
+F 1 "OUT_CARRY_OUT" V 3713 7512 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3650 7700 50  0001 C CNN
 F 3 "~" H 3650 7700 50  0001 C CNN
 	1    3650 7700
@@ -845,16 +827,12 @@ Wire Wire Line
 	3450 6150 3550 6150
 Wire Wire Line
 	3450 6350 3550 6350
-Wire Wire Line
-	3450 6450 3550 6450
 Text GLabel 3550 6150 2    50   Input ~ 0
 QA1
 Text GLabel 3550 6250 2    50   Input ~ 0
 QB1
 Text GLabel 3550 6350 2    50   Input ~ 0
 QC1
-Text GLabel 3550 6450 2    50   Input ~ 0
-QD1
 Wire Wire Line
 	2300 1250 2200 1250
 Wire Wire Line
@@ -1088,12 +1066,12 @@ $EndComp
 $Comp
 L Connector:Conn_01x02_Male J12
 U 1 1 5FD7B0CD
-P 2850 5400
-F 0 "J12" V 3004 5212 50  0000 R CNN
-F 1 "OUT_clock" V 2913 5212 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2850 5400 50  0001 C CNN
-F 3 "~" H 2850 5400 50  0001 C CNN
-	1    2850 5400
+P 2850 5300
+F 0 "J12" V 3004 5112 50  0000 R CNN
+F 1 "OUT_clock" V 2913 5112 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2850 5300 50  0001 C CNN
+F 3 "~" H 2850 5300 50  0001 C CNN
+	1    2850 5300
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
@@ -1101,18 +1079,14 @@ Wire Wire Line
 $Comp
 L power:GND #PWR0132
 U 1 1 5FD8518F
-P 2600 5450
-F 0 "#PWR0132" H 2600 5200 50  0001 C CNN
-F 1 "GND" H 2605 5277 50  0000 C CNN
-F 2 "" H 2600 5450 50  0001 C CNN
-F 3 "" H 2600 5450 50  0001 C CNN
-	1    2600 5450
-	1    0    0    -1  
+P 2550 5200
+F 0 "#PWR0132" H 2550 4950 50  0001 C CNN
+F 1 "GND" H 2555 5027 50  0000 C CNN
+F 2 "" H 2550 5200 50  0001 C CNN
+F 3 "" H 2550 5200 50  0001 C CNN
+	1    2550 5200
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	2650 5400 2600 5400
-Wire Wire Line
-	2600 5400 2600 5450
 Wire Wire Line
 	2450 6150 2150 6150
 $Comp
@@ -1286,16 +1260,16 @@ $EndComp
 $Comp
 L power:GND #PWR0133
 U 1 1 603E341A
-P 5950 6800
-F 0 "#PWR0133" H 5950 6550 50  0001 C CNN
-F 1 "GND" H 5955 6627 50  0000 C CNN
-F 2 "" H 5950 6800 50  0001 C CNN
-F 3 "" H 5950 6800 50  0001 C CNN
-	1    5950 6800
-	-1   0    0    1   
+P 6250 6800
+F 0 "#PWR0133" H 6250 6550 50  0001 C CNN
+F 1 "GND" H 6255 6627 50  0000 C CNN
+F 2 "" H 6250 6800 50  0001 C CNN
+F 3 "" H 6250 6800 50  0001 C CNN
+	1    6250 6800
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	5950 6800 5950 6850
+	6250 6800 6150 6850
 Wire Wire Line
 	6050 6800 6050 6850
 $Comp
@@ -1367,12 +1341,12 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x02_Male J14
 U 1 1 603E42DC
-P 5950 7050
-F 0 "J14" V 6104 6862 50  0000 R CNN
-F 1 "OUT_OUT" V 6013 6862 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5950 7050 50  0001 C CNN
-F 3 "~" H 5950 7050 50  0001 C CNN
-	1    5950 7050
+P 6050 7050
+F 0 "J14" V 6204 6862 50  0000 R CNN
+F 1 "OUT_OUT" V 6113 6862 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6050 7050 50  0001 C CNN
+F 3 "~" H 6050 7050 50  0001 C CNN
+	1    6050 7050
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1557,16 +1531,14 @@ $EndComp
 $Comp
 L Connector:Conn_01x02_Male J6
 U 1 1 600AC872
-P 700 6750
-F 0 "J6" V 854 6562 50  0000 R CNN
-F 1 "SW_run" V 763 6562 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 700 6750 50  0001 C CNN
-F 3 "~" H 700 6750 50  0001 C CNN
-	1    700  6750
+P 600 6750
+F 0 "J6" V 754 6562 50  0000 R CNN
+F 1 "SW_run" V 663 6562 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 600 6750 50  0001 C CNN
+F 3 "~" H 600 6750 50  0001 C CNN
+	1    600  6750
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1550 6850 2450 6850
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 6015E3EC
@@ -1671,7 +1643,7 @@ Wire Wire Line
 Wire Wire Line
 	10100 4700 10100 4650
 Wire Wire Line
-	10300 4650 10100 4650
+	10300 4650 10200 4650
 Connection ~ 10100 4650
 Wire Wire Line
 	10100 4650 10100 4600
@@ -1680,7 +1652,7 @@ Wire Wire Line
 Wire Wire Line
 	10100 4900 10100 4950
 Wire Wire Line
-	10300 4950 10150 4950
+	10300 4950 10200 4950
 Wire Wire Line
 	10150 4950 10150 4900
 Wire Wire Line
@@ -1870,4 +1842,167 @@ Wire Wire Line
 Wire Wire Line
 	2100 6150 2150 6150
 Connection ~ 2150 6150
+$Comp
+L Connector:Conn_01x02_Male J21
+U 1 1 6112494E
+P 3900 6700
+F 0 "J21" V 4054 6512 50  0000 R CNN
+F 1 "SW_dual8_hex_2" V 3963 6512 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3900 6700 50  0001 C CNN
+F 3 "~" H 3900 6700 50  0001 C CNN
+	1    3900 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 61125FE1
+P 3900 6250
+F 0 "R14" H 3830 6204 50  0000 R CNN
+F 1 "4700R" H 3830 6295 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3830 6250 50  0001 C CNN
+F 3 "~" H 3900 6250 50  0001 C CNN
+	1    3900 6250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 6450 3900 6450
+Wire Wire Line
+	3900 6450 3900 6400
+Wire Wire Line
+	3900 6500 3900 6450
+Connection ~ 3900 6450
+$Comp
+L power:GND #PWR0141
+U 1 1 61145C06
+P 3900 6000
+F 0 "#PWR0141" H 3900 5750 50  0001 C CNN
+F 1 "GND" V 3905 5872 50  0000 R CNN
+F 2 "" H 3900 6000 50  0001 C CNN
+F 3 "" H 3900 6000 50  0001 C CNN
+	1    3900 6000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3900 6100 3900 6000
+Wire Wire Line
+	4000 6500 4000 6450
+Wire Wire Line
+	4000 6450 4100 6450
+Text GLabel 4100 6450 2    50   Input ~ 0
+QD1
+Wire Wire Line
+	800  6850 900  6850
+Wire Wire Line
+	900  7100 900  6850
+Connection ~ 900  6850
+Wire Wire Line
+	900  6850 2450 6850
+Wire Wire Line
+	900  7400 900  7500
+Wire Wire Line
+	2550 5200 2650 5200
+$Comp
+L Connector:Conn_01x02_Male J5
+U 1 1 613E2BB2
+P 1400 7050
+F 0 "J5" V 1554 6862 50  0000 R CNN
+F 1 "OUT_OUT" V 1463 6862 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1400 7050 50  0001 C CNN
+F 3 "~" H 1400 7050 50  0001 C CNN
+	1    1400 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Male J22
+U 1 1 613E4E82
+P 1400 7350
+F 0 "J22" V 1554 7162 50  0000 R CNN
+F 1 "OUT_OUT" V 1463 7162 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1400 7350 50  0001 C CNN
+F 3 "~" H 1400 7350 50  0001 C CNN
+	1    1400 7350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1600 7050 2200 7050
+$Comp
+L Amplifier_Operational:TL072 U8
+U 1 1 61535B29
+P 8100 1100
+F 0 "U8" H 8100 1467 50  0000 C CNN
+F 1 "TL072" H 8100 1376 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 8100 1100 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8100 1100 50  0001 C CNN
+	1    8100 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U8
+U 2 1 61536DC3
+P 8100 1600
+F 0 "U8" H 8100 1967 50  0000 C CNN
+F 1 "TL072" H 8100 1876 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 8100 1600 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8100 1600 50  0001 C CNN
+	2    8100 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:TL072 U8
+U 3 1 6153A199
+P 8050 2300
+F 0 "U8" V 7725 2300 50  0000 C CNN
+F 1 "TL072" V 7816 2300 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 8050 2300 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8050 2300 50  0001 C CNN
+	3    8050 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C15
+U 1 1 6153CD4F
+P 10200 4800
+F 0 "C15" H 10085 4754 50  0000 R CNN
+F 1 "C" H 10085 4845 50  0000 R CNN
+F 2 "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" H 10238 4650 50  0001 C CNN
+F 3 "~" H 10200 4800 50  0001 C CNN
+	1    10200 4800
+	-1   0    0    1   
+$EndComp
+Connection ~ 10200 4950
+Wire Wire Line
+	10200 4950 10150 4950
+Connection ~ 10200 4650
+Wire Wire Line
+	10200 4650 10100 4650
+$Comp
+L power:GND #PWR?
+U 1 1 6154B30B
+P 7650 2300
+F 0 "#PWR?" H 7650 2050 50  0001 C CNN
+F 1 "GND" H 7655 2127 50  0000 C CNN
+F 2 "" H 7650 2300 50  0001 C CNN
+F 3 "" H 7650 2300 50  0001 C CNN
+	1    7650 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 6154BF9B
+P 8450 2100
+F 0 "#PWR?" H 8450 1950 50  0001 C CNN
+F 1 "VCC" H 8465 2273 50  0000 C CNN
+F 2 "" H 8450 2100 50  0001 C CNN
+F 3 "" H 8450 2100 50  0001 C CNN
+	1    8450 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8350 2200 8450 2200
+Wire Wire Line
+	8450 2200 8450 2100
+Wire Wire Line
+	7750 2200 7650 2200
+Wire Wire Line
+	7650 2200 7650 2300
 $EndSCHEMATC
