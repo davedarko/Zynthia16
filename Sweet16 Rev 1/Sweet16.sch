@@ -1275,13 +1275,13 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x02_Male J15
 U 1 1 5FCE153F
-P 5000 6400
-F 0 "J15" V 5154 6212 50  0000 R CNN
-F 1 "R_sync_pitch_1" V 5063 6212 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5000 6400 50  0001 C CNN
-F 3 "~" H 5000 6400 50  0001 C CNN
-	1    5000 6400
-	0    -1   -1   0   
+P 5100 6400
+F 0 "J15" V 5254 6212 50  0000 R CNN
+F 1 "R_sync_pitch_1" V 5163 6212 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5100 6400 50  0001 C CNN
+F 3 "~" H 5100 6400 50  0001 C CNN
+	1    5100 6400
+	0    1    -1   0   
 $EndComp
 $Comp
 L Device:D D9
@@ -1520,13 +1520,13 @@ Preset ENABLE
 $Comp
 L Connector:Conn_01x02_Male J17
 U 1 1 5FCDFDEC
-P 7550 6200
-F 0 "J17" V 7704 6012 50  0000 R CNN
-F 1 "R_sync_pitch_2" V 7613 6012 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7550 6200 50  0001 C CNN
-F 3 "~" H 7550 6200 50  0001 C CNN
-	1    7550 6200
-	0    -1   -1   0   
+P 7650 6200
+F 0 "J17" V 7804 6012 50  0000 R CNN
+F 1 "R_sync_pitch_2" V 7713 6012 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7650 6200 50  0001 C CNN
+F 3 "~" H 7650 6200 50  0001 C CNN
+	1    7650 6200
+	0    1    -1   0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Male J6
@@ -1976,10 +1976,10 @@ Connection ~ 10200 4650
 Wire Wire Line
 	10200 4650 10100 4650
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0142
 U 1 1 6154B30B
 P 7650 2300
-F 0 "#PWR?" H 7650 2050 50  0001 C CNN
+F 0 "#PWR0142" H 7650 2050 50  0001 C CNN
 F 1 "GND" H 7655 2127 50  0000 C CNN
 F 2 "" H 7650 2300 50  0001 C CNN
 F 3 "" H 7650 2300 50  0001 C CNN
@@ -1987,10 +1987,10 @@ F 3 "" H 7650 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0143
 U 1 1 6154BF9B
 P 8450 2100
-F 0 "#PWR?" H 8450 1950 50  0001 C CNN
+F 0 "#PWR0143" H 8450 1950 50  0001 C CNN
 F 1 "VCC" H 8465 2273 50  0000 C CNN
 F 2 "" H 8450 2100 50  0001 C CNN
 F 3 "" H 8450 2100 50  0001 C CNN
