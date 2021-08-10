@@ -137,23 +137,23 @@ $EndComp
 $Comp
 L 4xxx:40106 U1
 U 2 1 5FBC9159
-P 5000 4600
-F 0 "U1" H 5000 4917 50  0000 C CNN
-F 1 "40106" H 5000 4826 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5000 4600 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf" H 5000 4600 50  0001 C CNN
-	2    5000 4600
-	0    -1   -1   0   
-$EndComp
-$Comp
-L 4xxx:40106 U1
-U 3 1 5FBCA510
 P 7550 4600
 F 0 "U1" H 7550 4917 50  0000 C CNN
 F 1 "40106" H 7550 4826 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 7550 4600 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf" H 7550 4600 50  0001 C CNN
-	3    7550 4600
+	2    7550 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L 4xxx:40106 U1
+U 3 1 5FBCA510
+P 5000 4600
+F 0 "U1" H 5000 4917 50  0000 C CNN
+F 1 "40106" H 5000 4826 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_LongPads" H 5000 4600 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf" H 5000 4600 50  0001 C CNN
+	3    5000 4600
 	0    -1   -1   0   
 $EndComp
 $Comp
