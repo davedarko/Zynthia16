@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="300mm"
+   viewBox="0 0 599.99998 300.00001"
+   width="600mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Zynthia_6mm_B.svg">
+  <defs
+     id="defs145" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="908"
+     inkscape:window-height="761"
+     id="namedview143"
+     showgrid="false"
+     inkscape:zoom="0.17986618"
+     inkscape:cx="618.30047"
+     inkscape:cy="764.66427"
+     inkscape:window-x="15"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:document-units="mm" />
+  <!--
+UniversalBox - Box with various options for different styles and lids
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2020-06-22 09:57:42
+Command line (remove spaces between dashes): boxes UniversalBox - -FingerJoint_angle=90.0 - -FingerJoint_style=rectangular - -FingerJoint_surroundingspaces=2.0 - -FingerJoint_edge_width=1.0 - -FingerJoint_finger=2.0 - -FingerJoint_play=0.0 - -FingerJoint_space=2.0 - -FingerJoint_width=1.0 - -Stackable_angle=60 - -Stackable_height=2.0 - -Stackable_holedistance=1.0 - -Stackable_width=4.0 - -Hinge_grip_percentage=0 - -Hinge_outset=0 - -Hinge_outset=1 - -Hinge_pinwidth=0.5 - -Hinge_style=outset - -Hinge_axle=2 - -Hinge_grip_length=0 - -Hinge_hingestrength=1 - -CabinetHinge_bore=3.2 - -CabinetHinge_eyes_per_hinge=5 - -CabinetHinge_hinges=2 - -CabinetHinge_style=inside - -CabinetHinge_eye=1.5 - -CabinetHinge_play=0.05 - -CabinetHinge_spacing=2.0 - -Lid_angle=90.0 - -Lid_second_pin=0 - -Lid_second_pin=1 - -Lid_spring=both - -Lid_style=rectangular - -Lid_surroundingspaces=2.0 - -Lid_edge_width=1.0 - -Lid_finger=3.0 - -Lid_play=0.05 - -Lid_space=2.0 - -Lid_width=1.0 - -Click_angle=5 - -Click_bottom_radius=0.1 - -Click_depth=3.0 - -RoundedTriangleEdge_height=150.0 - -RoundedTriangleEdge_r_hole=2.0 - -RoundedTriangleEdge_radius=30.0 - -RoundedTriangleEdge_outset=1 - -Flex_stretch=1.05 - -Flex_connection=1.0 - -Flex_distance=0.5 - -Flex_width=5.0 - -top_edge=e - -bottom_edge=h - -x=252 - -y=502 - -h=88.0 - -outside=0 '- -lid=default (none)' - -thickness=6 - -format=svg - -tabs=0.0 - -debug=0 - -reference=0 - -burn=0.1
+Url: http://localhost:8008/UniversalBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_edge_width=1.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&Stackable_angle=60&Stackable_height=2.0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_outset=1&Hinge_pinwidth=0.5&Hinge_style=outset&Hinge_axle=2&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&Lid_angle=90.0&Lid_second_pin=0&Lid_second_pin=1&Lid_spring=both&Lid_style=rectangular&Lid_surroundingspaces=2.0&Lid_edge_width=1.0&Lid_finger=3.0&Lid_play=0.05&Lid_space=2.0&Lid_width=1.0&Click_angle=5&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=150.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1&Flex_stretch=1.05&Flex_connection=1.0&Flex_distance=0.5&Flex_width=5.0&top_edge=e&bottom_edge=h&x=252&y=502&h=88.0&outside=0&lid=default+%28none%29&thickness=6&format=svg&tabs=0.0&debug=0&reference=0&burn=0.1&render=1
+SettingsUrl: http://localhost:8008/UniversalBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_edge_width=1.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&Stackable_angle=60&Stackable_height=2.0&Stackable_holedistance=1.0&Stackable_width=4.0&Hinge_grip_percentage=0&Hinge_outset=0&Hinge_outset=1&Hinge_pinwidth=0.5&Hinge_style=outset&Hinge_axle=2&Hinge_grip_length=0&Hinge_hingestrength=1&CabinetHinge_bore=3.2&CabinetHinge_eyes_per_hinge=5&CabinetHinge_hinges=2&CabinetHinge_style=inside&CabinetHinge_eye=1.5&CabinetHinge_play=0.05&CabinetHinge_spacing=2.0&Lid_angle=90.0&Lid_second_pin=0&Lid_second_pin=1&Lid_spring=both&Lid_style=rectangular&Lid_surroundingspaces=2.0&Lid_edge_width=1.0&Lid_finger=3.0&Lid_play=0.05&Lid_space=2.0&Lid_width=1.0&Click_angle=5&Click_bottom_radius=0.1&Click_depth=3.0&RoundedTriangleEdge_height=150.0&RoundedTriangleEdge_r_hole=2.0&RoundedTriangleEdge_radius=30.0&RoundedTriangleEdge_outset=1&Flex_stretch=1.05&Flex_connection=1.0&Flex_distance=0.5&Flex_width=5.0&top_edge=e&bottom_edge=h&x=252&y=502&h=88.0&outside=0&lid=default+%28none%29&thickness=6&format=svg&tabs=0.0&debug=0&reference=0&burn=0.1
+-->
+  <title
+     id="title4">UniversalBox</title>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:title>UniversalBox</dc:title>
+        <dc:date>2020-06-22 09:57:42</dc:date>
+        <dc:source>http://localhost:8008/UniversalBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=4.0&amp;Hinge_grip_percentage=0&amp;Hinge_outset=0&amp;Hinge_outset=1&amp;Hinge_pinwidth=0.5&amp;Hinge_style=outset&amp;Hinge_axle=2&amp;Hinge_grip_length=0&amp;Hinge_hingestrength=1&amp;CabinetHinge_bore=3.2&amp;CabinetHinge_eyes_per_hinge=5&amp;CabinetHinge_hinges=2&amp;CabinetHinge_style=inside&amp;CabinetHinge_eye=1.5&amp;CabinetHinge_play=0.05&amp;CabinetHinge_spacing=2.0&amp;Lid_angle=90.0&amp;Lid_second_pin=0&amp;Lid_second_pin=1&amp;Lid_spring=both&amp;Lid_style=rectangular&amp;Lid_surroundingspaces=2.0&amp;Lid_edge_width=1.0&amp;Lid_finger=3.0&amp;Lid_play=0.05&amp;Lid_space=2.0&amp;Lid_width=1.0&amp;Click_angle=5&amp;Click_bottom_radius=0.1&amp;Click_depth=3.0&amp;RoundedTriangleEdge_height=150.0&amp;RoundedTriangleEdge_r_hole=2.0&amp;RoundedTriangleEdge_radius=30.0&amp;RoundedTriangleEdge_outset=1&amp;Flex_stretch=1.05&amp;Flex_connection=1.0&amp;Flex_distance=0.5&amp;Flex_width=5.0&amp;top_edge=e&amp;bottom_edge=h&amp;x=252&amp;y=502&amp;h=88.0&amp;outside=0&amp;lid=default+%28none%29&amp;thickness=6&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;reference=0&amp;burn=0.1&amp;render=1</dc:source>
+        <dc:description>Box with various options for different styles and lids
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes UniversalBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=2.0 --FingerJoint_edge_width=1.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.0 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --Stackable_angle=60 --Stackable_height=2.0 --Stackable_holedistance=1.0 --Stackable_width=4.0 --Hinge_grip_percentage=0 --Hinge_outset=0 --Hinge_outset=1 --Hinge_pinwidth=0.5 --Hinge_style=outset --Hinge_axle=2 --Hinge_grip_length=0 --Hinge_hingestrength=1 --CabinetHinge_bore=3.2 --CabinetHinge_eyes_per_hinge=5 --CabinetHinge_hinges=2 --CabinetHinge_style=inside --CabinetHinge_eye=1.5 --CabinetHinge_play=0.05 --CabinetHinge_spacing=2.0 --Lid_angle=90.0 --Lid_second_pin=0 --Lid_second_pin=1 --Lid_spring=both --Lid_style=rectangular --Lid_surroundingspaces=2.0 --Lid_edge_width=1.0 --Lid_finger=3.0 --Lid_play=0.05 --Lid_space=2.0 --Lid_width=1.0 --Click_angle=5 --Click_bottom_radius=0.1 --Click_depth=3.0 --RoundedTriangleEdge_height=150.0 --RoundedTriangleEdge_r_hole=2.0 --RoundedTriangleEdge_radius=30.0 --RoundedTriangleEdge_outset=1 --Flex_stretch=1.05 --Flex_connection=1.0 --Flex_distance=0.5 --Flex_width=5.0 --top_edge=e --bottom_edge=h --x=252 --y=502 --h=88.0 --outside=0 '--lid=default (none)' --thickness=6 --format=svg --tabs=0.0 --debug=0 --reference=0 --burn=0.1
+Url: http://localhost:8008/UniversalBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=4.0&amp;Hinge_grip_percentage=0&amp;Hinge_outset=0&amp;Hinge_outset=1&amp;Hinge_pinwidth=0.5&amp;Hinge_style=outset&amp;Hinge_axle=2&amp;Hinge_grip_length=0&amp;Hinge_hingestrength=1&amp;CabinetHinge_bore=3.2&amp;CabinetHinge_eyes_per_hinge=5&amp;CabinetHinge_hinges=2&amp;CabinetHinge_style=inside&amp;CabinetHinge_eye=1.5&amp;CabinetHinge_play=0.05&amp;CabinetHinge_spacing=2.0&amp;Lid_angle=90.0&amp;Lid_second_pin=0&amp;Lid_second_pin=1&amp;Lid_spring=both&amp;Lid_style=rectangular&amp;Lid_surroundingspaces=2.0&amp;Lid_edge_width=1.0&amp;Lid_finger=3.0&amp;Lid_play=0.05&amp;Lid_space=2.0&amp;Lid_width=1.0&amp;Click_angle=5&amp;Click_bottom_radius=0.1&amp;Click_depth=3.0&amp;RoundedTriangleEdge_height=150.0&amp;RoundedTriangleEdge_r_hole=2.0&amp;RoundedTriangleEdge_radius=30.0&amp;RoundedTriangleEdge_outset=1&amp;Flex_stretch=1.05&amp;Flex_connection=1.0&amp;Flex_distance=0.5&amp;Flex_width=5.0&amp;top_edge=e&amp;bottom_edge=h&amp;x=252&amp;y=502&amp;h=88.0&amp;outside=0&amp;lid=default+%28none%29&amp;thickness=6&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;reference=0&amp;burn=0.1&amp;render=1
+SettingsUrl: http://localhost:8008/UniversalBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=2.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;Stackable_angle=60&amp;Stackable_height=2.0&amp;Stackable_holedistance=1.0&amp;Stackable_width=4.0&amp;Hinge_grip_percentage=0&amp;Hinge_outset=0&amp;Hinge_outset=1&amp;Hinge_pinwidth=0.5&amp;Hinge_style=outset&amp;Hinge_axle=2&amp;Hinge_grip_length=0&amp;Hinge_hingestrength=1&amp;CabinetHinge_bore=3.2&amp;CabinetHinge_eyes_per_hinge=5&amp;CabinetHinge_hinges=2&amp;CabinetHinge_style=inside&amp;CabinetHinge_eye=1.5&amp;CabinetHinge_play=0.05&amp;CabinetHinge_spacing=2.0&amp;Lid_angle=90.0&amp;Lid_second_pin=0&amp;Lid_second_pin=1&amp;Lid_spring=both&amp;Lid_style=rectangular&amp;Lid_surroundingspaces=2.0&amp;Lid_edge_width=1.0&amp;Lid_finger=3.0&amp;Lid_play=0.05&amp;Lid_space=2.0&amp;Lid_width=1.0&amp;Click_angle=5&amp;Click_bottom_radius=0.1&amp;Click_depth=3.0&amp;RoundedTriangleEdge_height=150.0&amp;RoundedTriangleEdge_r_hole=2.0&amp;RoundedTriangleEdge_radius=30.0&amp;RoundedTriangleEdge_outset=1&amp;Flex_stretch=1.05&amp;Flex_connection=1.0&amp;Flex_distance=0.5&amp;Flex_width=5.0&amp;top_edge=e&amp;bottom_edge=h&amp;x=252&amp;y=502&amp;h=88.0&amp;outside=0&amp;lid=default+%28none%29&amp;thickness=6&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;reference=0&amp;burn=0.1
+</dc:description>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4535"
+     transform="translate(-277.1,-527.1)">
+    <g
+       transform="translate(0,-2.8)"
+       id="g4469">
+      <g
+         id="g4397"
+         transform="translate(0,-20.000133)">
+        <path
+           d="m 306.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path58"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 330.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path60"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 354.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path62"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 378.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path64"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 402.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path66"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 426.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path68"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 450.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path70"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 474.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path72"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 498.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path74"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 522.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path76"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 546.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path78"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 570.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path80"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 594.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path82"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 618.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path84"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 642.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path86"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 666.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path88"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 690.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path90"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 714.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path92"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 738.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path94"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 762.3,724.4 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path96"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path98"
+         d="m 283.3,730.6 502,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-19.9 c 0,-0.1 -0.1,0 0,0 l 5.9,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-11.8 c 0,-0.1 -0.1,0 0,0 l 5.9,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-11.8 c 0,-0.1 -0.1,0 0,0 l 5.9,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-19.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -502,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,19.9 c 0,0.1 0.1,0 0,0 l -5.9,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,12 c 0,0.055 0.045,0.1 0.1,0.1 l 5.9,0 c 0.1,0 0,-0.1 0,0 l 0,11.8 c 0,0.1 0.1,0 0,0 l -5.9,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,12 c 0,0.055 0.045,0.1 0.1,0.1 l 5.9,0 c 0.1,0 0,-0.1 0,0 l 0,11.8 c 0,0.1 0.1,0 0,0 l -5.9,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,12 c 0,0.055 0.045,0.1 0.1,0.1 l 5.9,0 c 0.1,0 0,-0.1 0,0 l 0,19.9 c 0,0.055 0.045,0.1 0.1,0.1 z" />
+    </g>
+    <g
+       id="g4445">
+      <g
+         id="g4375"
+         transform="translate(0,-20.000133)">
+        <path
+           d="m 306.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path101"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 330.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path103"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 354.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path105"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 378.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path107"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 402.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path109"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 426.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path111"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 450.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path113"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 474.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path115"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 498.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path117"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 522.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path119"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 546.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path121"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 570.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path123"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 594.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path125"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 618.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path127"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 642.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path129"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 666.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path131"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 690.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path133"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 714.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path135"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 738.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path137"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           d="m 762.3,621.2 -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-5.8 c 0,-0.1 -0.1,0 0,0 l 11.8,0 c 0.1,0 0,-0.1 0,0 l 0,5.8 c 0,0.1 0.1,0 0,0 l -5.9,0 z"
+           id="path139"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <path
+         sodipodi:nodetypes="cssssssssssssssssssssssssssssssssssssssssssssssssssssssc"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path141"
+         d="m 785.3,627.4 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-19.9 c 0,-0.1 -0.1,0 0,0 l 5.9,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-11.8 c 0,-0.1 -0.1,0 0,0 l 5.9,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-11.8 c 0,-0.1 -0.1,0 0,0 l 5.9,0 c 0.055,0 0.1,-0.045 0.1,-0.1 l 0,-12 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -5.9,0 c -0.1,0 0,0.1 0,0 l 0,-19.9 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 l -502,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,19.9 c 0,0.1 0.1,0 0,0 l -5.9,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,12 c 0,0.055 0.045,0.1 0.1,0.1 l 5.9,0 c 0.1,0 0,-0.1 0,0 l 0,11.8 c 0,0.1 0.1,0 0,0 l -5.9,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,12 c 0,0.055 0.045,0.1 0.1,0.1 l 5.9,0 c 0.1,0 0,-0.1 0,0 l 0,11.8 c 0,0.1 0.1,0 0,0 l -5.9,0 c -0.055,0 -0.1,0.045 -0.1,0.1 l 0,12 c 0,0.055 0.045,0.1 0.1,0.1 l 5.9,0 c 0.1,0 0,-0.1 0,0 l 0,19.9 c 0,0.055 0.045,0.1 0.1,0.1" />
+    </g>
+  </g>
+</svg>
