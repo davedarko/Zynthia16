@@ -1986,4 +1986,6 @@ Wire Wire Line
 	5000 4200 5800 4200
 Wire Wire Line
 	5800 4200 5800 5550
+Text GLabel 3600 6450 3    50   Input ~ 0
+QD0
 $EndSCHEMATC
