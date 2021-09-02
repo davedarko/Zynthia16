@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35422814"
-     inkscape:cx="1076.2621"
-     inkscape:cy="208.50941"
+     inkscape:zoom="0.47336699"
+     inkscape:cx="964.00314"
+     inkscape:cy="393.13257"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1440"
-     inkscape:window-height="786"
+     inkscape:window-height="791"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="297"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -198,7 +198,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1109,27 +1109,11 @@
          y="294.8685"
          style="font-size:40px;line-height:1">TEMPORALE ANOMALIE</tspan></text>
     <g
-       id="g5746"
-       transform="translate(-37.69489,109.63171)">
-      <circle
-         cy="508.02191"
-         cx="92.625847"
-         id="circle4581"
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="24.625984" />
-      <circle
-         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#aa4400;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4583"
-         cx="92.625847"
-         cy="508.02191"
-         r="17.53937" />
-    </g>
-    <g
        id="g4621"
-       transform="translate(-223.69489,-210.86829)">
+       transform="translate(-330.56989,-208.99329)">
       <circle
          r="24.625984"
-         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433075;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="ellipse4617"
          cx="384.62592"
          cy="616.30768" />
@@ -1139,20 +1123,20 @@
          cy="612.76434"
          cx="384.62592"
          id="path4615"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          y="591.6817"
          x="381.08261"
          height="14.173228"
          width="7.0866141"
          id="rect4619"
-         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g4766"
-       transform="translate(-117.69489,-212.86226)">
+       transform="translate(307.93011,-212.86226)">
       <circle
-         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle4768"
          cx="493.19736"
          cy="617.73627"
@@ -1161,10 +1145,10 @@
          cy="617.73627"
          cx="493.19736"
          id="circle4770"
-         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          r="17.53937" />
       <path
-         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.77165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 505.42177,589.16479 c 0,13.60056 -5.47305,34.62599 -12.22441,34.62599 -6.75136,0 -12.22441,-21.02543 -12.22441,-34.62599 0,-13.60055 5.47306,-14.62598 12.22441,-14.62598 6.75135,0 12.22441,1.02543 12.22441,14.62598 z"
          id="path4772"
          inkscape:connector-curvature="0"
@@ -1173,26 +1157,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="350.80524"
+       x="776.43024"
        y="452.3465"
        id="text4778"><tspan
          sodipodi:role="line"
-         x="350.80524"
+         x="776.43024"
          y="452.3465"
          id="tspan4782"
          style="font-size:15px;line-height:1">DOWN</tspan></text>
     <g
-       transform="translate(-225.69489,-212.86226)"
+       transform="translate(199.93011,-212.86226)"
        id="g4830">
       <circle
          r="24.625984"
          cy="617.73627"
          cx="493.19736"
          id="circle4832"
-         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="17.53937"
-         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle4834"
          cx="493.19736"
          cy="617.73627" />
@@ -1201,22 +1185,22 @@
          inkscape:connector-curvature="0"
          id="path4836"
          d="m 505.42177,589.16479 c 0,13.60056 -5.47305,34.62599 -12.22441,34.62599 -6.75136,0 -12.22441,-21.02543 -12.22441,-34.62599 0,-13.60055 5.47306,-14.62598 12.22441,-14.62598 6.75135,0 12.22441,1.02543 12.22441,14.62598 z"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.77165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <text
        id="text4842"
        y="452.3465"
-       x="251.43317"
+       x="677.05817"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4844"
          y="452.3465"
-         x="251.43317"
+         x="677.05817"
          sodipodi:role="line"
          style="font-size:15px;line-height:1">DEC</tspan></text>
     <g
        id="g1547"
-       transform="translate(3.7500003)">
+       transform="translate(-108.75,105)">
       <g
          transform="translate(399.53147,5.13171)"
          id="g4814">
@@ -1247,50 +1231,51 @@
     </g>
     <text
        id="text4591"
-       y="552.06531"
-       x="21.447905"
+       y="657.06531"
+       x="19.572937"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="552.06531"
-         x="21.447905"
+         y="657.06531"
+         x="19.572937"
          id="tspan4593"
          sodipodi:role="line"
          style="font-size:15px;line-height:1">CLOCK IN</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="117.44791"
-       y="550.06531"
+       x="10.572937"
+       y="760.06531"
        id="text4607"><tspan
          id="tspan4611"
          sodipodi:role="line"
-         x="117.44791"
-         y="550.06531"
+         x="10.572937"
+         y="760.06531"
          style="font-size:15px;line-height:1">CLOCK OUT</tspan></text>
     <text
        id="text4774"
        y="475.94287"
-       x="361.09113"
+       x="786.71613"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="475.94287"
-         x="361.09113"
+         x="786.71613"
          id="tspan4776"
          sodipodi:role="line"
          style="font-size:15px;line-height:1">UP</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="254.53864"
+       x="680.16364"
        y="475.94287"
        id="text4838"><tspan
          sodipodi:role="line"
          id="tspan4840"
-         x="254.53864"
+         x="680.16364"
          y="475.94287"
          style="font-size:15px;line-height:1">BIN</tspan></text>
     <g
-       id="g1673">
+       id="g1427"
+       transform="translate(-3.7500004,105)">
       <circle
          style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle4587"
@@ -1303,43 +1288,43 @@
          cx="56.931011"
          cy="513.92926"
          r="6.023622" />
-      <circle
-         r="12.224409"
-         cy="513.92926"
-         cx="160.93102"
-         id="circle4603"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="6.023622"
-         cy="513.92926"
-         cx="160.93102"
-         id="circle4605"
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4797"
-         cx="371.50247"
-         cy="511.92926"
-         r="12.224409" />
-      <circle
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4799"
-         cx="371.50247"
-         cy="511.92926"
-         r="6.023622" />
-      <circle
-         r="12.224409"
-         cy="511.92926"
-         cx="267.50247"
-         id="circle4848"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="6.023622"
-         cy="511.92926"
-         cx="267.50247"
-         id="circle4850"
-         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <circle
+       r="12.224409"
+       cy="723.92926"
+       cx="54.056023"
+       id="circle4603"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="6.023622"
+       cy="723.92926"
+       cx="54.056023"
+       id="circle4605"
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4797"
+       cx="797.12744"
+       cy="511.92926"
+       r="12.224409" />
+    <circle
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4799"
+       cx="797.12744"
+       cy="511.92926"
+       r="6.023622" />
+    <circle
+       r="12.224409"
+       cy="511.92926"
+       cx="693.12744"
+       id="circle4848"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="6.023622"
+       cy="511.92926"
+       cx="693.12744"
+       id="circle4850"
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4898"
        transform="translate(1571.8172,5.13171)">
@@ -1357,17 +1342,17 @@
          style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-437.69489,-212.86226)"
+       transform="translate(-120.81989,-214.73726)"
        id="g4917">
       <circle
          r="24.625984"
          cy="617.73627"
          cx="493.19736"
          id="circle4919"
-         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="17.53937"
-         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle4921"
          cx="493.19736"
          cy="617.73627" />
@@ -1376,29 +1361,29 @@
          inkscape:connector-curvature="0"
          id="path4923"
          d="m 505.42177,589.16479 c 0,13.60056 -5.47305,34.62599 -12.22441,34.62599 -6.75136,0 -12.22441,-21.02543 -12.22441,-34.62599 0,-13.60055 5.47306,-14.62598 12.22441,-14.62598 6.75135,0 12.22441,1.02543 12.22441,14.62598 z"
-         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.77165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="135.44791"
-       y="456.35107"
+       x="28.572937"
+       y="458.22607"
        id="text4931"><tspan
          sodipodi:role="line"
          id="tspan4933"
-         x="135.44791"
-         y="456.35107"
+         x="28.572937"
+         y="458.22607"
          style="font-size:15px;line-height:1">SPEED</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="41.447903"
-       y="454.92249"
+       x="358.32291"
+       y="453.04749"
        id="text4935"><tspan
          sodipodi:role="line"
          id="tspan4937"
-         x="41.447903"
-         y="454.92249"
+         x="358.32291"
+         y="453.04749"
          style="font-size:15px;line-height:1">RUN</tspan></text>
     <g
        id="g6524"
@@ -2916,7 +2901,7 @@
        r="10.523622" />
     <g
        id="g1615"
-       transform="translate(211.875)">
+       transform="translate(-320.625)">
       <circle
          cy="408.02191"
          cx="481.76871"
@@ -2933,17 +2918,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="665.80524"
-       y="471.0965"
+       x="133.30524"
+       y="457.9715"
        id="text1477"><tspan
          sodipodi:role="line"
-         x="665.80524"
-         y="471.0965"
+         x="133.30524"
+         y="457.9715"
          id="tspan1475"
          style="font-size:15px;line-height:1">RESET</tspan></text>
     <g
        id="g1611"
-       transform="translate(211.875)">
+       transform="translate(-320.625,-1.875)">
       <circle
          cy="408.02191"
          cx="586.76868"
@@ -2960,17 +2945,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="770.80518"
-       y="471.0965"
+       x="240.18021"
+       y="457.9715"
        id="text1491"><tspan
          sodipodi:role="line"
-         x="770.80518"
-         y="471.0965"
+         x="240.18021"
+         y="457.9715"
          id="tspan1489"
          style="font-size:15px;line-height:1">PAUSE</tspan></text>
     <g
+       id="g5746"
+       transform="rotate(180,72.84091,510.61387)">
+      <circle
+         cy="508.02191"
+         cx="92.625847"
+         id="circle4581"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="24.625984" />
+      <circle
+         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#aa4400;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4583"
+         cx="92.625847"
+         cy="508.02191"
+         r="17.53937" />
+    </g>
+    <g
        id="g1625"
-       transform="translate(211.875)">
+       transform="rotate(180,320.24346,566.36723)">
       <g
          transform="translate(400.68305,5.13171)"
          id="g4814-9">
@@ -2990,7 +2991,7 @@
     </g>
     <g
        id="g1635"
-       transform="translate(211.875)">
+       transform="translate(-320.625,105)">
       <g
          transform="translate(507.55805,5.13171)"
          id="g1593">
@@ -3010,7 +3011,7 @@
     </g>
     <g
        id="g1679"
-       transform="translate(387.93011,111.50671)">
+       transform="translate(277.30511,4.6317102)">
       <circle
          cy="508.02191"
          cx="92.625847"
@@ -3025,7 +3026,7 @@
          r="17.53937" />
     </g>
     <g
-       transform="translate(-13.819889,-212.86226)"
+       transform="translate(411.80511,-212.86226)"
        id="g1687">
       <circle
          r="24.625984"
@@ -3049,21 +3050,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="487.12726"
+       x="912.75226"
        y="452.3465"
        id="text1715"><tspan
          sodipodi:role="line"
-         x="487.12726"
+         x="912.75226"
          y="452.3465"
          id="tspan1713"
          style="font-size:15px;line-height:1;text-align:center;text-anchor:middle">2x8 / 16</tspan><tspan
          sodipodi:role="line"
-         x="489.76398"
+         x="915.38898"
          y="467.3465"
          style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
          id="tspan1729">STEPS </tspan></text>
     <g
-       transform="translate(91.18011,-212.86226)"
+       transform="translate(516.80511,-212.86226)"
        id="g1723">
       <circle
          r="24.625984"
@@ -3087,18 +3088,50 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="587.54962"
+       x="1013.1746"
        y="452.3465"
        id="text1727"><tspan
          sodipodi:role="line"
-         x="587.54962"
+         x="1013.1746"
          y="452.3465"
          id="tspan1725"
          style="font-size:15px;line-height:1;text-align:center;text-anchor:middle">iNVERT</tspan><tspan
          sodipodi:role="line"
-         x="587.54962"
+         x="1013.1746"
          y="467.3465"
          style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
          id="tspan1731">HALF</tspan></text>
+    <g
+       id="g1467"
+       transform="translate(174.18011,4.6317102)">
+      <circle
+         cy="508.02191"
+         cx="92.625847"
+         id="circle1463"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="24.625984" />
+      <circle
+         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#aa4400;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1465"
+         cx="92.625847"
+         cy="508.02191"
+         r="17.53937" />
+    </g>
+    <g
+       id="g1473"
+       transform="translate(67.30511,4.6317102)">
+      <circle
+         cy="508.02191"
+         cx="92.625847"
+         id="circle1469"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="24.625984" />
+      <circle
+         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#aa4400;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1471"
+         cx="92.625847"
+         cy="508.02191"
+         r="17.53937" />
+    </g>
   </g>
 </svg>

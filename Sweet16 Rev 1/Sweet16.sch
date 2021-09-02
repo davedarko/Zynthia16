@@ -565,7 +565,7 @@ F 3 "" H 1650 7150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1600 7150 1650 7150
+	1400 7150 1650 7150
 Wire Wire Line
 	2200 7050 2200 7250
 Wire Wire Line
@@ -1820,12 +1820,12 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x02_Male J5
 U 1 1 613E2BB2
-P 1400 7050
-F 0 "J5" V 1554 6862 50  0000 R CNN
-F 1 "OUT_OUT" V 1463 6862 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1400 7050 50  0001 C CNN
-F 3 "~" H 1400 7050 50  0001 C CNN
-	1    1400 7050
+P 1200 7050
+F 0 "J5" V 1354 6862 50  0000 R CNN
+F 1 "OUT_OUT" V 1263 6862 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 7050 50  0001 C CNN
+F 3 "~" H 1200 7050 50  0001 C CNN
+	1    1200 7050
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1840,7 +1840,7 @@ F 3 "~" H 1400 7350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1600 7050 2200 7050
+	1400 7050 2200 7050
 $Comp
 L Device:C C15
 U 1 1 6153CD4F
